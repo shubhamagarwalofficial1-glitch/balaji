@@ -24,6 +24,7 @@ import {
 export const siteConfig = {
   name: 'Shree Balaji Enterprises',
   shortName: 'Shree Balaji',
+  logo: '/images/logo.png',
   tagline: 'Industrial Trading, Procurement & Sourcing',
   description:
     'Shree Balaji Enterprises is a trusted industrial trading, procurement and sourcing partner in India, supplying industrial products, electrical items, hardware, safety equipment, construction materials, packaging and custom sourcing solutions for businesses.',
