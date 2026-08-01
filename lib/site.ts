@@ -28,12 +28,12 @@ export const siteConfig = {
   description:
     'Shree Balaji Enterprises is a trusted industrial trading, procurement and sourcing partner in India, supplying industrial products, electrical items, hardware, safety equipment, construction materials, packaging and custom sourcing solutions for businesses.',
   url: 'https://shreebalajienterprises.example',
-  phone: '+91 98765 43210',
-  phoneHref: '+919876543210',
-  whatsapp: '919876543210',
-  email: 'sales@shreebalajienterprises.example',
-  address: 'Plot 24, Industrial Area Phase II, Ahmedabad, Gujarat 382445, India',
-  founded: '2009',
+  phone: '+91 84708 33247',
+  phoneHref: '+918470833247',
+  whatsapp: '918470833247',
+  email: 'shreebalajienterprises1826@gmail.com',
+  address: '1122/1, Nagariya Colony, Near Khushipura, Jhansi, Uttar Pradesh 284002, India',
+  founded: '2026',
   social: {
     linkedin: 'https://linkedin.com',
     twitter: 'https://twitter.com',
